@@ -25,7 +25,7 @@ If you want you can place the file imprim.sh into your home folder
 4. If you want you can place the file imprim.sh into your home folder
  `cp /path/to/printer/imprim.sh ~/print`
 
-5. `sh rint /path/to/myfile.pdf`
+5. `sh print /path/to/myfile.pdf`
 
 # Content
 This folder contains:
