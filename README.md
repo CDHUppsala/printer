@@ -3,7 +3,7 @@
 This folder contains the scripts I use for printing on my debian linux system at Uppsala university. It should work fine on any debian based system like Ubuntu.
 
 # Prerequisites 
-Be employed at UU and have a linux machine (these scripts have not been tested on mac).
+Be employed at UU and have a linux or a mac machine.
 Be connected to the UU network (eduroam, or Ethernet).
 Install the university printer: https://mp.uu.se/en/web/info/stod/it-telefoni/it-servicedesk/utskrift/kom-igang-med-eduprint/eduprint-linux
 
@@ -23,7 +23,6 @@ Eventually install cups:
 
 You might be prompt to give your credential follow the instructions [here](https://mp.uu.se/en/web/info/stod/it-telefoni/it-servicedesk/utskrift/kom-igang-med-eduprint/eduprint-linux)
 
-If you want you can place the file imprimc.sh into your home folder
 
 4. If you want you can place the file imprimc.sh into your home folder
  `cp /path/to/printer/imprimc.sh ~/print`
