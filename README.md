@@ -5,7 +5,7 @@ This folder contains the scripts I use for printing on my debian linux system at
 # Prerequisites 
 Be employed at UU and have a linux or a mac machine.
 Be connected to the UU network (eduroam, or Ethernet).
-Install the university printer: [https://mp.uu.se/en/web/info/stod/it-telefoni/it-support/utskrift/kom-igang-med-eduprint/eduprint-linux](https://mp.uu.se/en/web/info/stod/it-telefoni/it-support/utskrift/kom-igang-med-eduprint/eduprint-linux]
+Install the university printer: [https://mp.uu.se/en/web/info/stod/it-telefoni/it-support/utskrift/kom-igang-med-eduprint/eduprint-linux](https://mp.uu.se/en/web/info/stod/it-telefoni/it-support/utskrift/kom-igang-med-eduprint/eduprint-linux)
 Eventually install cups: 
 
 * If you are on Linux (Debian,Ubuntu...): `sudo apt-get install cups`
